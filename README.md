@@ -13,7 +13,7 @@ Meu objetivo é seguir carreira em segurança ofensiva (Pentest/Red Team), e est
 - Redes TCP/IP e infraestrutura
 - Linux (terminal, permissões, sudo, apt)
 - Virtualização (VirtualBox)
-- Noções de segurança ofensiva — simulação de ataques em ambiente controlado com Kali Linux
+- Noções de segurança ofensiva, simulação de ataques em ambiente controlado com Kali Linux
 - Conceitos de Segurança da Informação e LGPD
 - Python (básico)
 
