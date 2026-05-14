@@ -25,6 +25,10 @@ Meu objetivo é seguir carreira em segurança ofensiva (Pentest/Red Team), e est
 - Segurança em Tecnologia da Informação — Fundação Bradesco (2025)
 - Introdução ao Hacking Ético e Pentest — Solyd Offensive Security (2025)
 - Lei Geral de Proteção de Dados — Fundação Bradesco (2025)
+- Introdução à Cibersegurança - Cisco Networking Academy (2026)
+- Analista SOC Essencial - IBSEC (2026)
+- Fundamentos de Tecnologia da Informação - IBM SkillsBuild (2026)
+
 
 ## Contato
 - LinkedIn: [linkedin.com/in/igorscsilva](https://linkedin.com/in/igorscsilva)
