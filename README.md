@@ -22,7 +22,7 @@ Meu objetivo é seguir carreira em segurança ofensiva (Pentest/Red Team), e est
 - Técnico em Redes de Computadores — ETEC de Embu (2025)
 
 ## Certificações
-- Segurança em Tecnologia da Informação — Fundação Bradesco (2025)
+- Prevenção e Reação a Incidentes Cibernéticos - SENAI (2026)
 - Introdução ao Hacking Ético e Pentest — Solyd Offensive Security (2025)
 - Lei Geral de Proteção de Dados — Fundação Bradesco (2025)
 - Introdução à Cibersegurança - Cisco Networking Academy (2026)
